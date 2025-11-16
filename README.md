@@ -1,21 +1,20 @@
-# 🚀 Founder | Spring Boot Developer 🚀  
+# Hi, I'm Rajesh 👋  
+### SaaS Architect & Founder @ RaiseHigh Tech  
 
-👋 **Hello!** Welcome to my GitHub profile!  
+I help startups build scalable SaaS products, API-first systems, and cloud-native architectures.  
+My focus is:  
+🚀 SaaS System Design  
+🧱 Multi-Tenant Architecture  
+☁️ AWS Deployments  
+🔐 Authentication & Authorization  
+⚙️ High-quality Backend Engineering (Spring Boot)
 
-I'm the **Founder of RaiseHigh Tech Solutions**, where I build innovative software solutions to help businesses grow. With expertise in **Spring Boot and backend development**, I specialize in creating scalable, high-performance applications.  
+### 🔥 Featured Work  
+- **Auth-SaaS** – Production-ready authentication module  
+- (More SaaS starter modules coming soon…)
 
-## 🛠️ Skills  
-- **Backend Development:** Java, Spring Boot, REST APIs, Microservices  
-- **Software Development:** Scalable Architecture, Database Management, Web Services  
+### 🌱 Currently Building  
+A complete SaaS Starter Kit to help founders launch products 10× faster.
 
-## 🌟 Passionate Builder  
-I’m always exploring new technologies and methodologies to enhance my development skills and create impactful solutions.  
-
-## 📬 Let's Connect  
-Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/rajesh-ayyavu) to discuss software development, business opportunities, or collaboration.  
-
----  
-
-Thank you for visiting my GitHub profile! Let's innovate together. 🚀  
-
-
+### 💬 Let’s Connect  
+If you're building a SaaS or MVP, feel free to reach out!
